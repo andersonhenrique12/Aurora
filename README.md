@@ -1,6 +1,6 @@
 # 🤖 Aurora - Chatbot em Python
 
-<img src="https://github.com/andersonhenrique12/Aurora/blob/main/chatbotaurora.jpg"
+<img src="https://github.com/andersonhenrique12/Aurora/blob/main/chatbotaurora.jpg" alt="Aurora" width="300"/>
 
 **Aurora** é um chatbot inteligente desenvolvido em **Python** com foco em simplicidade e aprendizado. Ele pode ser executado localmente usando o **Visual Studio Code** ou na nuvem com o **Google Colab**.
 
